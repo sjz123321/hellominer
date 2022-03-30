@@ -62,15 +62,6 @@ bash -c "$(curl -s -L https://github.com/hellominer/hellominer/raw/main/install.
 bash -c "$(curl -s -L https://github.com/hellominer/hellominer/raw/main/install.sh)" @ update
 `
 
-#### 修改程序配置
-
-hellominer提供了一键配置脚本只需运行：
-
-`
-bash -c "$(curl -s -L https://github.com/hellominer/hellominer/raw/main/tools.sh)"
-`
-
-
 ### 方式二：手动安装
 
 1. [点击下载 hellominer.tar.gz](https://github.com/hellominer/hellominer/raw/main/releases/hellominer.tar.gz) 。
